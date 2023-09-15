@@ -1,2 +1,4 @@
 def test() :
-    return "vous avez reussi"
+    a=1
+    b=34
+    return a+b,"vous avez reussi"
